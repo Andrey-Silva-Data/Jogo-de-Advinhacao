@@ -1,4 +1,4 @@
-# Jogo-de-Advinhacao
+# Jogo-de-Advinhação
 Construção de um jogo de advinhação com AWS Lambda, API Gateway e Bucket S3.
 
 
